@@ -9,7 +9,7 @@ We propose a multimodal fusion model combining IOS parameters, IOS curves, and d
 The dataset used in this study includes:
 - IOS-derived parameters (e.g., R5, R20, Fres, X5)
 - Three waveform curves (flow, pressure, volume)
-- Demographic information (height, age, weight, gender)
+- Demographic information (height, age, weight, gender)  
 ⚠ **Note**: The datasets used during the current study are available from the corresponding author on reasonable request.
 
 # Dependencies
@@ -38,7 +38,7 @@ cd copd-ios-model
 [Static features] -------> MLP ---------/
 
 
-# 🔗 Pretrained Weights
+# 🔗 Load Model Weights
 
 You can download the pretrained weights from:
 
