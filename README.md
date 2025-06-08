@@ -51,6 +51,6 @@ import torch
 from model import COPDModel
 
 model = COPDModel()
-model.load_state_dict(torch.load('./weights/ios_model.pth'))
+model.load_state_dict(torch.load('model.pth'))
 model.eval()
 
