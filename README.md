@@ -42,7 +42,7 @@ cd copd-ios-model
 
 You can download the pretrained weights from:
 
-- [`ios_model.pth`](./weights/ios_model.pth) – stored locally in the `weights/` directory
+- [`model.pth`](model.pth) – stored locally in the directory
 
 To use the pretrained model for inference:
 
